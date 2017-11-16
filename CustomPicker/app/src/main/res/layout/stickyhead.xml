@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/plan_time_txt_month"
+    android:layout_width="match_parent"
+    android:layout_height="35dp"
+    android:textColor="@color/blue"
+    android:textSize="16sp"
+    android:gravity="center_vertical"
+    android:paddingLeft="10dp"
+    android:background="#E0E0E0"
+    android:text="Aug 2017"
+    />
